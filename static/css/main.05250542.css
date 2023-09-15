@@ -1,0 +1,2 @@
+.calculator{box-shadow:0 2px 5px rgba(0,0,0,.2);margin:0 auto;text-align:center;width:300px}.calculator,.display{border:1px solid #ccc;border-radius:5px;padding:10px}.display{background-color:#f0f0f0;font-size:24px;margin-bottom:10px}.buttons{grid-gap:5px;display:grid;gap:5px;grid-template-columns:repeat(4,1fr)}button{border:1px solid #ccc;border-radius:5px;cursor:pointer;font-size:18px;padding:10px}button:hover{background-color:#f0f0f0}
+/*# sourceMappingURL=main.05250542.css.map*/
